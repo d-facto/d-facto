@@ -1,1 +1,3 @@
-# d-facto
+# Decentralized Fact-Checked Objectivity (D-FACTO)
+
+
